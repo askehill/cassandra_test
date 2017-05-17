@@ -1,0 +1,1 @@
+create table my_keyspace.dummy_3 (id text primary key);
